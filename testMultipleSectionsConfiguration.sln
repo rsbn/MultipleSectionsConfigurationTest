@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMultipleSectionsConfigSection", "testMultipleSectionsConfigSection\testMultipleSectionsConfigSection.csproj", "{4BCD4C57-0ADA-49DB-A803-B6888B477627}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMultipleSectionsConfiguration", "testMultipleSectionsConfigSection\testMultipleSectionsConfiguration.csproj", "{4BCD4C57-0ADA-49DB-A803-B6888B477627}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
